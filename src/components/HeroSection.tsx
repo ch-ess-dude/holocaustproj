@@ -67,7 +67,7 @@ export function HeroSection() {
           letterSpacing: '0.05em',
         }}
       >
-        Aayaan Sultan &nbsp;·&nbsp; Nairit Adak &nbsp;·&nbsp; Oushnik Pradhan &nbsp;·&nbsp; Abhradeep <Roy></Roy>
+        Aayaan Sultan &nbsp;·&nbsp; Nairit Adak &nbsp;·&nbsp; Oushnik Pradhan&nbsp;·&nbsp; Abhradeep Roy
       </motion.p>
     </section>
   )
