@@ -7,7 +7,7 @@ interface Props {
   alt: string
   aspect?: '16/9' | '4/3' | '1/1' | '3/4'
   className?: string
-  /** For person cards — renders the image as a portrait square with object-position top */
+  /** For person cards - renders the image as a portrait square with object-position top */
   portrait?: boolean
 }
 

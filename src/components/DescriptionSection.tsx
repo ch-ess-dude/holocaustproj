@@ -31,7 +31,7 @@ export function DescriptionSection() {
           <p style={{ fontFamily: 'var(--font-body)', color: 'var(--text-secondary)', fontSize: '1.05rem', lineHeight: 1.85 }}>
             The Holocaust was the systematic, state-sponsored persecution and murder of six million
             Jews by Nazi Germany and its collaborators between 1941 and 1945. Millions of other
-            people were also murdered — among them Roma, people with disabilities, Soviet prisoners
+            people were also murdered - among them Roma, people with disabilities, Soviet prisoners
             of war, Polish civilians, political dissidents, and others the regime deemed
             "undesirable." It is the most thoroughly documented genocide in history, and
             remembering it is the purpose of this project.

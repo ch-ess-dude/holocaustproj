@@ -135,7 +135,7 @@ export function TimelineSection() {
             color: 'var(--text-primary)',
           }}
         >
-          Key Events, 1933–1946
+          Key Events, 1933-1946
         </h2>
       </div>
 

@@ -16,7 +16,7 @@ const books: Book[] = [
     year: '1947',
     genre: 'Diary / Memoir',
     synopsis:
-      'Written between 1942 and 1944 while Anne Frank and her family hid in a concealed annex in Amsterdam, the diary records her inner life — her hopes, frustrations, and observations — with striking literary intelligence. It ends abruptly when the family was discovered and arrested.',
+      'Written between 1942 and 1944 while Anne Frank and her family hid in a concealed annex in Amsterdam, the diary records her inner life - her hopes, frustrations, and observations - with striking literary intelligence. It ends abruptly when the family was discovered and arrested.',
     significance:
       'The most widely read personal account of the Holocaust. It brings the abstract scale of genocide to a single human voice, making it essential reading in classrooms worldwide. Its power lies in what Anne does not know: the reader reads knowing she will not survive.',
   },
@@ -28,7 +28,7 @@ const books: Book[] = [
     synopsis:
       'Night recounts Wiesel\'s deportation from Romania to Auschwitz and Buchenwald as a fifteen-year-old, and his struggle to survive alongside his father. Written in spare, stripped-down prose, it narrates the systematic destruction of his faith, family, and sense of self.',
     significance:
-      'Wiesel described Night as a "deposition" — legal testimony as literature. Its stylistic restraint is deliberate: ornate language would falsify the experience. It is one of the founding texts of Holocaust literature and directly influenced how the world discusses bearing witness.',
+      'Wiesel described Night as a "deposition" - legal testimony as literature. Its stylistic restraint is deliberate: ornate language would falsify the experience. It is one of the founding texts of Holocaust literature and directly influenced how the world discusses bearing witness.',
   },
   {
     title: 'If This Is a Man (Se questo è un uomo)',
@@ -36,9 +36,9 @@ const books: Book[] = [
     year: '1947',
     genre: 'Memoir / Essay',
     synopsis:
-      'Levi, a trained chemist, applies a scientist\'s precision to his account of Auschwitz. The book examines the camp as a system — its social hierarchies, its language, its logic — while never losing sight of the individuals within it. The title comes from an opening poem questioning what humanity means after such events.',
+      'Levi, a trained chemist, applies a scientist\'s precision to his account of Auschwitz. The book examines the camp as a system - its social hierarchies, its language, its logic - while never losing sight of the individuals within it. The title comes from an opening poem questioning what humanity means after such events.',
     significance:
-      'Where Night operates through grief and faith, Levi operates through analysis. Together they represent two essential modes of Holocaust testimony: the witness who mourns and the witness who examines. Levi\'s concept of the "grey zone" — the moral ambiguity forced on prisoners — remains one of literature\'s most important ethical contributions.',
+      'Where Night operates through grief and faith, Levi operates through analysis. Together they represent two essential modes of Holocaust testimony: the witness who mourns and the witness who examines. Levi\'s concept of the "grey zone" - the moral ambiguity forced on prisoners - remains one of literature\'s most important ethical contributions.',
   },
 ]
 
@@ -74,7 +74,7 @@ export function LiterarySection() {
             </h2>
             <p style={{ fontFamily: 'var(--font-body)', color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: 1.8 }}>
               The Holocaust produced a body of literature unlike any other. These three works are among
-              the most important — each a different register of testimony, each indispensable to
+              the most important - each a different register of testimony, each indispensable to
               understanding not only what happened, but how language attempts to hold it.
             </p>
           </div>
@@ -92,7 +92,7 @@ export function LiterarySection() {
                   overflow: 'hidden',
                 }}
               >
-                {/* Coloured top band — a quiet accent, not garish */}
+                {/* Coloured top band - a quiet accent, not garish */}
                 <div style={{ height: '3px', backgroundColor: 'var(--accent-muted)' }} aria-hidden="true" />
 
                 <div className="p-6 flex flex-col gap-4 flex-1">
@@ -128,7 +128,7 @@ export function LiterarySection() {
                       className="text-xs"
                       style={{ fontFamily: 'var(--font-ui)', color: 'var(--text-muted)', letterSpacing: '0.04em' }}
                     >
-                      {book.author} — {book.year}
+                      {book.author} - {book.year}
                     </p>
                   </div>
 

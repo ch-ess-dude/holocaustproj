@@ -22,10 +22,10 @@ export const timelineEntries: TimelineEntry[] = [
     year: '1933',
     title: 'The Nazi Seizure of Power',
     detail:
-      'On 30 January 1933, Adolf Hitler was appointed Chancellor of Germany. Within months, the regime opened Dachau — the first concentration camp — and launched a nationwide boycott of Jewish businesses. Civil liberties were suspended and the legal apparatus of persecution began to take shape.',
+      'On 30 January 1933, Adolf Hitler was appointed Chancellor of Germany. Within months, the regime opened Dachau - the first concentration camp - and launched a nationwide boycott of Jewish businesses. Civil liberties were suspended and the legal apparatus of persecution began to take shape.',
     imageSrc: '/images/t1-1933-boycott.jpg',
     imagePlaceholder: "Photograph: SA guards posted outside a Jewish-owned department store, Berlin, April 1933",
-    imageCaption: 'Bundesarchiv, Bild 102-14469 / CC-BY-SA 3.0 DE — SA guards enforce the boycott of Jewish businesses, Berlin, April 1933.',
+    imageCaption: 'Bundesarchiv, Bild 102-14469 / CC-BY-SA 3.0 DE - SA guards enforce the boycott of Jewish businesses, Berlin, April 1933.',
     imageAlt: 'SA guards standing outside a Jewish-owned department store during the Nazi boycott of Jewish businesses, Berlin, April 1933',
   },
   {
@@ -35,14 +35,14 @@ export const timelineEntries: TimelineEntry[] = [
       'Passed on 15 September 1935 at the Nazi Party rally in Nuremberg, these laws stripped German Jews of their citizenship, prohibited marriage and sexual relations between Jews and non-Jews, and codified racial persecution into statute. Jews were now legally classified as subjects, not citizens.',
     imageSrc: '/images/t2-1935-nuremberg.jpg',
     imagePlaceholder: 'Document: Page from the Reich Law Gazette (Reichsgesetzblatt) publishing the Nuremberg Laws, September 1935',
-    imageCaption: 'Reich Law Gazette, 16 September 1935, p. 1145. Public domain — German government document.',
+    imageCaption: 'Reich Law Gazette, 16 September 1935, p. 1145. Public domain - German government document.',
     imageAlt: 'Page from the Reich Law Gazette (Reichsgesetzblatt) publishing the Nuremberg Laws on 16 September 1935',
   },
   {
     year: '1938',
     title: 'Kristallnacht',
     detail:
-      'On the nights of 9–10 November 1938, a coordinated pogrom swept across Germany and Austria. Synagogues were burned, Jewish-owned shops were destroyed, and approximately 30,000 Jewish men were arrested and transported to concentration camps. The name — "Night of Broken Glass" — refers to the shattered shop windows that littered the streets.',
+      'On the nights of 9-10 November 1938, a coordinated pogrom swept across Germany and Austria. Synagogues were burned, Jewish-owned shops were destroyed, and approximately 30,000 Jewish men were arrested and transported to concentration camps. The name - "Night of Broken Glass" - refers to the shattered shop windows that littered the streets.',
     imageSrc: '/images/t3-1938-kristallnacht.jpg',
     imagePlaceholder: 'Photograph: Interior of the destroyed Fasanenstrasse Synagogue, Berlin, November 1938',
     imageCaption: 'Interior of the Fasanenstrasse Synagogue, Berlin, destroyed during Kristallnacht, November 1938. Public domain.',
@@ -52,30 +52,30 @@ export const timelineEntries: TimelineEntry[] = [
     year: '1939',
     title: 'Invasion of Poland & the Ghettos',
     detail:
-      'Germany invaded Poland on 1 September 1939, beginning the Second World War. In the occupied territories, the Nazi regime forced Jews into sealed urban ghettos — areas of severe overcrowding, starvation, and disease. The Warsaw Ghetto, the largest, imprisoned over 400,000 people at its peak.',
+      'Germany invaded Poland on 1 September 1939, beginning the Second World War. In the occupied territories, the Nazi regime forced Jews into sealed urban ghettos - areas of severe overcrowding, starvation, and disease. The Warsaw Ghetto, the largest, imprisoned over 400,000 people at its peak.',
     imageSrc: '/images/t4-1939-warsaw-ghetto.jpg',
-    imagePlaceholder: 'Photograph: The wall of the Warsaw Ghetto, 1940–41',
-    imageCaption: 'Bundesarchiv, Bild 101I-134-0791-29A — The ghetto wall in Warsaw that enclosed the Jewish population, c. 1941.',
+    imagePlaceholder: 'Photograph: The wall of the Warsaw Ghetto, 1940-41',
+    imageCaption: 'Bundesarchiv, Bild 101I-134-0791-29A - The ghetto wall in Warsaw that enclosed the Jewish population, c. 1941.',
     imageAlt: 'The wall of the Warsaw Ghetto, which separated the Jewish population from the rest of the city, photographed circa 1941',
   },
   {
     year: '1941',
     title: 'Mass Shootings in the East',
     detail:
-      'Following the German invasion of the Soviet Union (22 June 1941), SS mobile killing units known as Einsatzgruppen followed the advancing army and carried out mass shootings of Jews, Roma, Soviet officials, and others. At Babi Yar, a ravine near Kyiv, 33,771 Jews were murdered in two days (29–30 September 1941).',
+      'Following the German invasion of the Soviet Union (22 June 1941), SS mobile killing units known as Einsatzgruppen followed the advancing army and carried out mass shootings of Jews, Roma, Soviet officials, and others. At Babi Yar, a ravine near Kyiv, 33,771 Jews were murdered in two days (29-30 September 1941).',
     imageSrc: '/images/t5-1941-babiyar.jpg',
-    imagePlaceholder: 'Photograph: Babi Yar ravine, Kyiv, 1943 — site of the September 1941 massacre',
-    imageCaption: 'The Babi Yar ravine near Kyiv, photographed in 1943. Site of the massacre of 33,771 Jews on 29–30 September 1941. Public domain.',
+    imagePlaceholder: 'Photograph: Babi Yar ravine, Kyiv, 1943 - site of the September 1941 massacre',
+    imageCaption: 'The Babi Yar ravine near Kyiv, photographed in 1943. Site of the massacre of 33,771 Jews on 29-30 September 1941. Public domain.',
     imageAlt: 'The Babi Yar ravine near Kyiv, Ukraine, site of the September 1941 mass murder of 33,771 Jewish people',
   },
   {
     year: '1942',
     title: 'The Wannsee Conference & Industrial Murder',
     detail:
-      'On 20 January 1942, senior Nazi officials met at a villa in Wannsee, Berlin to coordinate the "Final Solution to the Jewish Question" — the total murder of European Jewry. Auschwitz-Birkenau and the Operation Reinhard camps (Treblinka, Sobibor, Belzec) became the centres of industrial-scale mass murder.',
+      'On 20 January 1942, senior Nazi officials met at a villa in Wannsee, Berlin to coordinate the "Final Solution to the Jewish Question" - the total murder of European Jewry. Auschwitz-Birkenau and the Operation Reinhard camps (Treblinka, Sobibor, Belzec) became the centres of industrial-scale mass murder.',
     imageSrc: '/images/t6-1942-wannsee.jpg',
-    imagePlaceholder: 'Photograph: The Wannsee House (Haus der Wannsee-Konferenz), Berlin — now a memorial and education centre',
-    imageCaption: 'The Wannsee House, Berlin — now the House of the Wannsee Conference, a memorial and education centre. Wikimedia Commons / CC BY-SA.',
+    imagePlaceholder: 'Photograph: The Wannsee House (Haus der Wannsee-Konferenz), Berlin - now a memorial and education centre',
+    imageCaption: 'The Wannsee House, Berlin - now the House of the Wannsee Conference, a memorial and education centre. Wikimedia Commons / CC BY-SA.',
     imageAlt: 'The Wannsee House in Berlin, site of the Wannsee Conference of January 1942, now a Holocaust memorial and education centre',
   },
   {
@@ -85,45 +85,45 @@ export const timelineEntries: TimelineEntry[] = [
       'Between April and May 1943, the remaining inhabitants of the Warsaw Ghetto staged the largest Jewish armed revolt of the war. Knowing they faced deportation and death, fighters led by Mordechai Anielewicz held off German forces for nearly four weeks with improvised weapons before being overwhelmed.',
     imageSrc: '/images/t7-1943-uprising.jpg',
     imagePlaceholder: 'Photograph: From the Stroop Report, Warsaw Ghetto Uprising, 1943',
-    imageCaption: 'Bundesarchiv — Photograph from the Stroop Report documenting the suppression of the Warsaw Ghetto Uprising, 1943. Public domain.',
+    imageCaption: 'Bundesarchiv - Photograph from the Stroop Report documenting the suppression of the Warsaw Ghetto Uprising, 1943. Public domain.',
     imageAlt: 'Photograph from the Stroop Report showing the aftermath of the Warsaw Ghetto Uprising, 1943',
   },
   {
     year: '1944',
     title: 'The Deportation of Hungarian Jews',
     detail:
-      'Between May and July 1944, over 400,000 Hungarian Jews were deported to Auschwitz-Birkenau in a matter of weeks — one of the most concentrated mass deportations of the entire Holocaust. The majority were murdered on arrival. This period came close to the end of the war, making the speed and scale especially stark.',
+      'Between May and July 1944, over 400,000 Hungarian Jews were deported to Auschwitz-Birkenau in a matter of weeks - one of the most concentrated mass deportations of the entire Holocaust. The majority were murdered on arrival. This period came close to the end of the war, making the speed and scale especially stark.',
     imageSrc: '/images/t8-1944-hungarian.jpg',
     imagePlaceholder: 'Photograph: Child survivors of Auschwitz at the time of liberation, January 1945',
-    imageCaption: 'Child survivors of Auschwitz photographed at the time of liberation, January 1945. Public domain — US Army.',
+    imageCaption: 'Child survivors of Auschwitz photographed at the time of liberation, January 1945. Public domain - US Army.',
     imageAlt: 'Child survivors of Auschwitz-Birkenau photographed at the time of the Soviet liberation of the camp, January 1945',
   },
   {
     year: '1945',
     title: 'Liberation',
     detail:
-      'On 27 January 1945, Soviet forces liberated Auschwitz-Birkenau. In the following weeks, Allied troops reached Bergen-Belsen, Dachau, and other camps, confronting conditions of extreme suffering. Germany surrendered unconditionally on 8 May 1945 — now observed as Holocaust Remembrance Day in many countries.',
+      'On 27 January 1945, Soviet forces liberated Auschwitz-Birkenau. In the following weeks, Allied troops reached Bergen-Belsen, Dachau, and other camps, confronting conditions of extreme suffering. Germany surrendered unconditionally on 8 May 1945 - now observed as Holocaust Remembrance Day in many countries.',
     imageSrc: '/images/t9-1945-liberation.jpg',
     imagePlaceholder: 'Photograph: American forces at the liberation of Dachau concentration camp, April 1945',
     imageCaption: 'American forces at Dachau concentration camp following its liberation, April 1945. US Army / Public domain.',
     imageAlt: 'American forces at Dachau concentration camp following its liberation by the United States Army in April 1945',
   },
   {
-    year: '1945–46',
+    year: '1945-46',
     title: 'The Nuremberg Trials',
     detail:
-      'Beginning in November 1945, the International Military Tribunal at Nuremberg prosecuted twenty-four leading members of the Nazi regime for crimes against peace, war crimes, and crimes against humanity — a category of law largely defined by these proceedings. The trials established a foundational precedent for international criminal justice.',
+      'Beginning in November 1945, the International Military Tribunal at Nuremberg prosecuted twenty-four leading members of the Nazi regime for crimes against peace, war crimes, and crimes against humanity - a category of law largely defined by these proceedings. The trials established a foundational precedent for international criminal justice.',
     imageSrc: '/images/t10-nuremberg-trials.jpg',
-    imagePlaceholder: 'Photograph: The Nuremberg Trials courtroom, 1945–46',
-    imageCaption: 'The Nuremberg Trials courtroom, 1945–46. US Army Signal Corps / National Archives. Public domain.',
-    imageAlt: 'The Nuremberg Trials courtroom showing the defendants in the dock, 1945–1946',
+    imagePlaceholder: 'Photograph: The Nuremberg Trials courtroom, 1945-46',
+    imageCaption: 'The Nuremberg Trials courtroom, 1945-46. US Army Signal Corps / National Archives. Public domain.',
+    imageAlt: 'The Nuremberg Trials courtroom showing the defendants in the dock, 1945-1946',
   },
 ]
 
 export const perpetrators: Person[] = [
   {
     name: 'Adolf Hitler',
-    role: 'Führer of Nazi Germany (1934–1945)',
+    role: 'Führer of Nazi Germany (1934-1945)',
     detail:
       'As head of state and supreme commander, Hitler was the chief instigator of the Holocaust. His ideological obsession with racial antisemitism, expressed in writings and speeches from the 1920s onward, provided the framework within which genocide became state policy.',
     imageSrc: '/images/p-hitler.jpg',
@@ -201,7 +201,7 @@ export const victims: Person[] = [
 export const rescuers: Person[] = [
   {
     name: 'Sophie Scholl & the White Rose',
-    role: 'Student resistance movement, Munich, 1942–43',
+    role: 'Student resistance movement, Munich, 1942-43',
     detail:
       'Sophie Scholl, her brother Hans, and fellow students distributed anti-Nazi leaflets at the University of Munich calling for passive resistance. They were arrested in February 1943, tried, and executed within days. Their courage remains a symbol of moral resistance within Germany itself.',
     imageSrc: '/images/r-scholl.jpg',
@@ -212,7 +212,7 @@ export const rescuers: Person[] = [
     name: 'Mordechai Anielewicz',
     role: 'Commander, Warsaw Ghetto Uprising',
     detail:
-      "At twenty-three, Anielewicz led the Jewish Combat Organisation (ŻOB) during the Warsaw Ghetto Uprising of April–May 1943. He died in the bunker at 18 Mila Street when the Germans discovered the fighters' last stronghold. He is commemorated as a symbol of Jewish armed resistance.",
+      "At twenty-three, Anielewicz led the Jewish Combat Organisation (ŻOB) during the Warsaw Ghetto Uprising of April-May 1943. He died in the bunker at 18 Mila Street when the Germans discovered the fighters' last stronghold. He is commemorated as a symbol of Jewish armed resistance.",
     imageSrc: '/images/r-anielewicz.jpg',
     imagePlaceholder: 'Portrait photograph of Mordechai Anielewicz',
     imageAlt: 'Portrait photograph of Mordechai Anielewicz, commander of the Warsaw Ghetto Uprising',

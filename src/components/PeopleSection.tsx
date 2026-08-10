@@ -14,7 +14,7 @@ function PersonCard({ person }: { person: Person }) {
           boxShadow: 'var(--shadow-sm)',
         }}
       >
-        {/* Portrait image — full width, 3:4 aspect, portrait crop */}
+        {/* Portrait image - full width, 3:4 aspect, portrait crop */}
         <ImagePlaceholder
           src={person.imageSrc}
           label={person.imagePlaceholder}

@@ -21,12 +21,12 @@ export function Footer() {
             <ul className="flex flex-col gap-2">
               {[
                 'United States Holocaust Memorial Museum (ushmm.org)',
-                'Yad Vashem — The World Holocaust Remembrance Center (yadvashem.org)',
+                'Yad Vashem - The World Holocaust Remembrance Center (yadvashem.org)',
                 'Holocaust Encyclopedia (encyclopedia.ushmm.org)',
                 'Bundesarchiv (bundesarchiv.de)',
                 'House of the Wannsee Conference (ghwk.de)',
-                'Elie Wiesel — Night (Hill & Wang, 1960)',
-                'Primo Levi — If This Is a Man (Einaudi, 1947)',
+                'Elie Wiesel - Night (Hill & Wang, 1960)',
+                'Primo Levi - If This Is a Man (Einaudi, 1947)',
               ].map((s) => (
                 <li
                   key={s}

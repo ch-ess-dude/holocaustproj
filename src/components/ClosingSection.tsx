@@ -40,15 +40,15 @@ export function ClosingSection() {
             className="mb-16 text-sm"
             style={{ fontFamily: 'var(--font-ui)', color: 'var(--text-muted)', letterSpacing: '0.05em' }}
           >
-            — Elie Wiesel
+            - Elie Wiesel
           </p>
 
           <p
             className="text-sm leading-relaxed"
             style={{ fontFamily: 'var(--font-body)', color: 'var(--text-secondary)' }}
           >
-            The Holocaust ended in 1945. The obligation to remember it did not. Yom HaShoah — Holocaust
-            Remembrance Day — is observed each year. The United Nations designated 27 January,
+            The Holocaust ended in 1945. The obligation to remember it did not. Yom HaShoah - Holocaust
+            Remembrance Day - is observed each year. The United Nations designated 27 January,
             the date of the liberation of Auschwitz, as International Holocaust Remembrance Day in
             2005. Museums, memorials, and survivor testimonies continue to preserve what was done
             so that it can never be denied, minimised, or forgotten.
